@@ -1,0 +1,1 @@
+alter table if exists dd.LnkUserQuestion drop column Answered;
